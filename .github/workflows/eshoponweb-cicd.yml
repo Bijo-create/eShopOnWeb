@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-bijo
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: f2eda31b-eedc-4e0d-9752-96552a0a110c
+  SUBSCRIPTION-ID: 5fa8cf45-19da-40ec-a5ed-a0904ded8c57
   WEBAPP-NAME: eshoponweb-webapp-bijo
 
 
